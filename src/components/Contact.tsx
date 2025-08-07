@@ -7,10 +7,10 @@ const Contact = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-4 animate-fade-in-up">
-            Let's Connect! 💌
+            Let's Connect
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            I'd love to hear from you! Whether it's about a project, collaboration, or just to say hi
+            I'm always interested in discussing new opportunities and collaborative projects
           </p>
         </div>
         
@@ -18,10 +18,10 @@ const Contact = () => {
           <div className="bg-card rounded-3xl p-8 md:p-12 shadow-soft text-center animate-scale-in">
             <div className="mb-8">
               <Heart className="h-12 w-12 text-pastel-pink mx-auto mb-4 animate-bounce-soft" />
-              <h3 className="text-2xl font-bold mb-4">Ready to build something amazing together?</h3>
+              <h3 className="text-2xl font-bold mb-4">Let's discuss your next project</h3>
               <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-                I'm always excited to work on new projects and meet fellow developers. 
-                Drop me a line and let's create something beautiful!
+                Whether you're looking for a developer to join your team or need help bringing 
+                your ideas to life, I'd love to hear about your project.
               </p>
             </div>
             
@@ -48,7 +48,7 @@ const Contact = () => {
             </div>
             
             <div className="mt-8 text-sm text-muted-foreground">
-              <p>Built with 💖 using React, TypeScript, and lots of coffee!</p>
+              <p>Built with React, TypeScript, and modern web technologies</p>
             </div>
           </div>
         </div>

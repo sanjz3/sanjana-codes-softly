@@ -15,10 +15,10 @@ const Resume = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-secondary bg-clip-text text-transparent mb-4 animate-fade-in-up">
-            Resume 📄
+            Resume
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Want to know more about my experience and skills? Download my resume!
+            Download my resume to learn more about my professional background and experience
           </p>
         </div>
         

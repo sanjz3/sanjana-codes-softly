@@ -19,14 +19,14 @@ const Hero = () => {
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className="max-w-4xl mx-auto animate-fade-in-up">
           <h1 className="text-6xl md:text-8xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-6 animate-scale-in">
-            Hi, I'm Sanjana! 
+            Sanjana
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-            Turning coffee ☕ into code 💻 with a sprinkle of magic ✨
+            Full-Stack Developer & Problem Solver
           </p>
           <p className="text-lg text-foreground/80 mb-12 max-w-3xl mx-auto">
-            Aspiring full-stack developer who believes that beautiful code creates beautiful experiences. 
-            I love crafting web applications that are not just functional, but delightful to use.
+            Passionate about creating exceptional web experiences through clean code and thoughtful design. 
+            I specialize in building responsive, user-focused applications that bridge creativity with functionality.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

@@ -30,10 +30,10 @@ const Skills = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-4 animate-fade-in-up">
-            My Skills ⚡
+            Technical Skills
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Here are the technologies and tools I love working with to bring ideas to life
+            Technologies and frameworks I work with to build robust web applications
           </p>
         </div>
         
