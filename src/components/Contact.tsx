@@ -17,7 +17,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto">
           <div className="bg-card rounded-3xl p-8 md:p-12 shadow-soft text-center animate-scale-in">
             <div className="mb-8">
-              <Heart className="h-12 w-12 text-pastel-pink mx-auto mb-4 animate-bounce-soft" />
+              <Heart className="h-12 w-12 text-professional-blue mx-auto mb-4 animate-bounce-soft" />
               <h3 className="text-2xl font-bold mb-4">Let's discuss your next project</h3>
               <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
                 Whether you're looking for a developer to join your team or need help bringing 

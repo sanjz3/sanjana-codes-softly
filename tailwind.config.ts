@@ -62,13 +62,13 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Pastel color palette for portfolio
-				'pastel-pink': 'hsl(var(--pastel-pink))',
-				'pastel-lavender': 'hsl(var(--pastel-lavender))',
-				'pastel-mint': 'hsl(var(--pastel-mint))',
-				'pastel-peach': 'hsl(var(--pastel-peach))',
-				'pastel-blue': 'hsl(var(--pastel-blue))',
-				'pastel-yellow': 'hsl(var(--pastel-yellow))'
+				// Professional color palette for portfolio
+				'professional-blue': 'hsl(var(--professional-blue))',
+				'professional-teal': 'hsl(var(--professional-teal))',
+				'professional-gray': 'hsl(var(--professional-gray))',
+				'professional-dark': 'hsl(var(--professional-dark))',
+				'professional-navy': 'hsl(var(--professional-navy))',
+				'professional-green': 'hsl(var(--professional-green))'
 			},
 			backgroundImage: {
 				'gradient-primary': 'var(--gradient-primary)',

@@ -37,18 +37,18 @@ const Resume = () => {
             </div>
             
             <div className="grid md:grid-cols-3 gap-6 mb-8">
-              <div className="bg-pastel-pink/20 rounded-2xl p-6">
-                <Star className="h-8 w-8 text-pastel-pink mx-auto mb-3" />
+              <div className="bg-professional-blue/10 rounded-2xl p-6">
+                <Star className="h-8 w-8 text-professional-blue mx-auto mb-3" />
                 <h4 className="font-semibold mb-2">Experience</h4>
                 <p className="text-sm text-muted-foreground">Project highlights & achievements</p>
               </div>
-              <div className="bg-pastel-mint/20 rounded-2xl p-6">
-                <Star className="h-8 w-8 text-pastel-mint mx-auto mb-3" />
+              <div className="bg-professional-teal/10 rounded-2xl p-6">
+                <Star className="h-8 w-8 text-professional-teal mx-auto mb-3" />
                 <h4 className="font-semibold mb-2">Education</h4>
                 <p className="text-sm text-muted-foreground">Academic background & certifications</p>
               </div>
-              <div className="bg-pastel-lavender/20 rounded-2xl p-6">
-                <Star className="h-8 w-8 text-pastel-lavender mx-auto mb-3" />
+              <div className="bg-professional-green/10 rounded-2xl p-6">
+                <Star className="h-8 w-8 text-professional-green mx-auto mb-3" />
                 <h4 className="font-semibold mb-2">Skills</h4>
                 <p className="text-sm text-muted-foreground">Technical expertise & tools</p>
               </div>

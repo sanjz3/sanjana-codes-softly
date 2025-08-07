@@ -27,10 +27,10 @@ const About = () => {
             </p>
             
             <div className="mt-8 flex flex-wrap justify-center gap-4">
-              <span className="px-4 py-2 bg-pastel-pink rounded-full text-sm font-medium">Problem Solver</span>
-              <span className="px-4 py-2 bg-pastel-mint rounded-full text-sm font-medium">Lifelong Learner</span>
-              <span className="px-4 py-2 bg-pastel-lavender rounded-full text-sm font-medium">Creative Thinker</span>
-              <span className="px-4 py-2 bg-pastel-peach rounded-full text-sm font-medium">Team Collaborator</span>
+              <span className="px-4 py-2 bg-professional-gray rounded-full text-sm font-medium">Problem Solver</span>
+              <span className="px-4 py-2 bg-professional-teal/20 text-professional-teal rounded-full text-sm font-medium">Lifelong Learner</span>
+              <span className="px-4 py-2 bg-professional-blue/20 text-professional-blue rounded-full text-sm font-medium">Creative Thinker</span>
+              <span className="px-4 py-2 bg-professional-navy/20 text-professional-navy rounded-full text-sm font-medium">Team Collaborator</span>
             </div>
           </div>
         </div>
