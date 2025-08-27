@@ -27,21 +27,21 @@ const Contact = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
               <Button variant="cute" size="lg" asChild>
-                <a href="mailto:sanjana@example.com">
+                <a href="mailto:sanjanamadammanavar@gmail.com">
                   <Mail className="h-5 w-5" />
-                  sanjana@example.com
+                  sanjanamadammanavar@gmail.com
                 </a>
               </Button>
             </div>
             
             <div className="flex justify-center gap-6">
               <Button variant="soft" size="icon" asChild>
-                <a href="https://github.com/sanjana" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/sanjz3" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="warm" size="icon" asChild>
-                <a href="https://linkedin.com/in/sanjana" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/sanjanam33" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>
