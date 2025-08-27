@@ -2,69 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Professional portfolio design system 
-Professional colors for a business-focused portfolio.
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
 */
 
 @layer base {
   :root {
-    /* Professional background colors */
     --background: 0 0% 100%;
-    --foreground: 220 15% 15%;
+    --foreground: 222.2 84% 4.9%;
 
-    /* Card styling */
-    --card: 0 0% 98%;
-    --card-foreground: 220 15% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
 
-    --popover: 0 0% 98%;
-    --popover-foreground: 220 15% 20%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
 
-    /* Primary - professional blue */
-    --primary: 220 90% 56%;
-    --primary-foreground: 0 0% 100%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
 
-    /* Secondary - sophisticated gray */
-    --secondary: 220 10% 95%;
-    --secondary-foreground: 220 15% 25%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
 
-    /* Muted - neutral gray */
-    --muted: 220 5% 96%;
-    --muted-foreground: 220 8% 46%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
 
-    /* Accent - professional teal */
-    --accent: 185 84% 44%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
 
-    --destructive: 0 84% 60%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
 
-    --border: 220 10% 90%;
-    --input: 220 10% 96%;
-    --ring: 220 90% 56%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
 
-    /* Professional rounded corners */
     --radius: 0.5rem;
-    
-    /* Professional color palette */
-    --professional-blue: 220 90% 56%;
-    --professional-teal: 185 84% 44%;
-    --professional-gray: 220 10% 85%;
-    --professional-dark: 220 20% 25%;
-    --professional-navy: 220 60% 18%;
-    --professional-green: 142 76% 36%;
-    
-    /* Professional gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(220 90% 56%), hsl(185 84% 44%));
-    --gradient-secondary: linear-gradient(135deg, hsl(220 20% 25%), hsl(220 60% 18%));
-    --gradient-warm: linear-gradient(135deg, hsl(220 10% 85%), hsl(220 5% 96%));
-    
-    /* Professional shadows */
-    --shadow-soft: 0 4px 20px hsl(220 10% 20% / 0.1);
-    --shadow-gentle: 0 2px 10px hsl(220 10% 20% / 0.05);
-    
-    /* Smooth transitions */
-    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 
     --sidebar-background: 0 0% 98%;
 
